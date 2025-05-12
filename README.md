@@ -1,5 +1,13 @@
-## Hi there 👋
+## Sobre Mi 🌷
 
+✨Hola, soy Macarena, más conocida como Mai. Soy una desarrolladora full-stack enfocada en el Front-end y experiencia de usuario.
+Me apasiona mezclar la tecnología con el arte y poder entregarle a las personas un diseño web bonito y funcional.
+
+-------------------
+
+## Puedes contactarme en 📱
+
+<a href= https://www.instagram.com/maiverse_/>![IG](https://img.shields.io/badge/maiverse_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://x.com/maiverse_">![Twitter](https://img.shields.io/badge/Maiverse-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a> <a href="https://www.linkedin.com/in/macarena-bustamante-escobar-4b73a6255/">![linkedin](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)</a> 
 <!--
 **mainob/mainob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
